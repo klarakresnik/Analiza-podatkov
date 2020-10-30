@@ -12,4 +12,4 @@ Za vsak recept bom zajela:
 - Katere sestavine so najpogosteje uporabljene pri receptih z vsaj 15 ocenjevalci?
 - Ali je recept bolje ocenjen, če je veganski?
 - Ali obstaja povezava med kuharjem in časom kuhanja njegovih receptov? (če ima kuhar vsaj 10 receptov)
-- Ali je ocena odvisna od časom kuhanja?
+- Ali je ocena odvisna od časa kuhanja?
