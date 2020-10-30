@@ -5,6 +5,7 @@ Za vsak recept bom zajela:
 - avtorja,
 - oceno,
 - število ocenjevalcev,
+- vrsta jedi,
 - predviden čas priprave in kuhanja ter
 - sestavine.
 
