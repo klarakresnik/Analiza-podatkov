@@ -20,11 +20,6 @@ vzorec_zvrsti = re.compile(
     re.DOTALL
 )
 
-vzorec_avtorja = re.compile(
-    r'<a class="chef__link" href="/food/chefs.*?">(?P<avtor>.+?)</a>', # avtor
-    re.DOTALL
-)
-
 vzorec_casa_kuhanja = re.compile(
     r'<p class="recipe-metadata__cook-time" content=".*?">(?P<cas_kuhanja>.*?)</p>.*?', # cas kuhanja
     re.DOTALL
