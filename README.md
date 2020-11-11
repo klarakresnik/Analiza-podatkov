@@ -7,11 +7,11 @@ Za vsak recept bom zajela:
 - avtorja,
 - oceno,
 - število ocenjevalcev,
-- vrsta jedi,
+- vrsto jedi,
 - predviden čas priprave in kuhanja ter
 - sestavine.
 
-Obdelani podatki se nahajajo v mapi `obdelani-podatki`. Vsi podatki o določenem receptu se najdejo v datoteki `recepti.json`. V datoteki `recepti.csv` je možno najti vse podatke o receptu, razen podatka o sestavinah, kateri se posebej nahaja v datoteki `sestavine.csv`, kjer so sestavine vezane na naslov recepta.
+Obdelani podatki se nahajajo v mapi `obdelani-podatki`. Vsi podatki o določenem receptu so v datoteki `recepti.json`. V datoteki `recepti.csv` je možno najti vse podatke o receptu, razen podatka o sestavinah, kateri se posebej nahaja v datoteki `sestavine.csv`, kjer so sestavine vezane na naslov recepta.
  
 ### Hipoteze
 - Ali je recept bolje ocenjen, če je veganski?
