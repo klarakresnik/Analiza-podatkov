@@ -16,6 +16,6 @@ Datoteka `poberi_url_strani.py` deluje tako, da shrani `html`-strani, ki vsebuje
 Obdelani podatki se nahajajo v mapi `obdelani-podatki`. Vsi podatki o določenem receptu so v datoteki `recepti.json`. V datoteki `recepti.csv` je možno najti vse podatke o receptu, razen podatka o sestavinah, kateri se posebej nahaja v datoteki `sestavine.csv`, kjer so sestavine vezane na naslov recepta.
 
 ### Hipoteze
-- Ali je recept bolje ocenjen, če je veganski?
-- Ali obstaja povezava med kuharjem in časom kuhanja njegovih receptov? (če ima kuhar vsaj 10 receptov)
-- Katere sestavine so najpogosteje uporabljene pri receptih z vsaj 15 ocenjevalci?
+- Vegetarijanski recepti so slabše ocenjeni,
+- Ali obstaja povezava med avtorjem in časom kuhanja njegovih receptov? (če ima kuhar vsaj 10 receptov)
+- Najpogosteje uporabljene sestavine so sol, poper, olje in čebula.
