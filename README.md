@@ -19,3 +19,5 @@ Obdelani podatki se nahajajo v mapi `obdelani-podatki`. Vsi podatki o določenem
 - Vegetarijanski recepti so slabše ocenjeni,
 - Ali obstaja povezava med avtorjem in časom kuhanja njegovih receptov? (če ima kuhar vsaj 10 receptov)
 - Najpogosteje uporabljene sestavine so sol, poper, olje in čebula.
+
+Dokončana analiza se nahaja pod imenom `koncen.ipynb`.
